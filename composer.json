@@ -1,9 +1,9 @@
 {
-	"name": "mdehaas/converse",
+	"name": "priyadi/converse",
 	"type": "roundcube-plugin",
 	"description": "XMPP plugin for Roundcube based on Converse.js",
 	"keywords": ["xmpp", "chat", "im", "jabber"],
-	"homepage": "https://github.com/mdehaas/roundcube-converse.js-xmpp-plugin",
+	"homepage": "https://github.com/priyadi/roundcube-converse.js-xmpp-plugin",
 	"license": "MIT",
 	"authors": [
 		{
@@ -11,12 +11,6 @@
 			"email": "priyadi@priyadi.net",
 			"homepage": "https://github.com/priyadi",
 			"role": "Developer"
-		},
-		{
-			"name": "Marcel de Haas",
-			"email": "marcel@marceldehaas.com",
-			"homepage": "https://github.com/mdehaas",
-			"role": "Contributor"
 		}
 	],
 	"repositories": [
